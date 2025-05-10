@@ -2,6 +2,7 @@
 - french 🇫🇷
 - independant **game developper**
 - linux (kubuntu) 🐧
+- love **robotic**
 
 ## 📲 CONTACT ME
 - **discord**: t0qen (MP are open)
